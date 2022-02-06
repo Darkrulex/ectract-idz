@@ -16,4 +16,8 @@ git clone https://github.com/Hamii-king-06/ectract-idz.git
 
 cd ectract-idz
 
-python2 Extract.py
+python2 Hamii$Upgrade_Dum_New.py
+
+
+
+
